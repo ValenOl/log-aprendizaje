@@ -39,4 +39,4 @@ Cada entrada vive en la carpeta `entradas/`, en un archivo con la fecha (`AAAA-M
 
 ## Entradas
 
-Todavía no hay entradas.
+- [2026-10-28](entradas/2026-10-28.md)

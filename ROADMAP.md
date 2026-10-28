@@ -65,15 +65,21 @@ hito. Un hito se cierra con evidencia, no con "ya lo sé".
 - Ejemplos resueltos con fading: evidencia fuerte, sobre todo en matemática y física (Sweller; Renkl y Atkinson).
 - Recuperación espaciada con IA: estudios chicos y recientes.
 
+## Rutina
+
+- **Lunes a viernes:** dos bloques por día (10 min de repaso sin mirar + proyecto, y proyecto + entrada del log).
+- **Sábado:** live coding de 45 min sin IA y repaso de la semana.
+- **Domingo:** descanso.
+
 ## Hitos
 
-Total estimado: ~280 h. A 7,5 h por semana son unas 37 semanas.
+Total estimado: ~280 h. A unas 26 h por semana son unas 11 semanas.
 
 ### Hito 0 — Cierre del setup (3 h)
 
-- [ ] `uv` en recordatorios (reemplaza `requirements.txt`).
-- [ ] Primera entrada en `log-aprendizaje/entradas/`.
-- [ ] Rutina fija: días y horario de estudio por semana.
+- [x] `uv` en recordatorios (reemplaza `requirements.txt`).
+- [x] Primera entrada en `log-aprendizaje/entradas/`.
+- [x] Rutina fija: días y horario de estudio por semana.
 
 **Checkpoint:** qué es el PATH y qué hace un entorno virtual.
 
