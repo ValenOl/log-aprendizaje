@@ -93,7 +93,7 @@ Total estimado: ~280 h. A unas 26 h por semana son unas 11 semanas.
 
 **Entregable:** recordatorios corre de punta a punta desde una función `main` y no se
 cae si la API falla.
-**Checkpoint:** explicar tablas hash, propagación de excepciones y para qué sirven los type hints.
+**Checkpoint:** explicar tablas hash, propagación de excepciones y para qué sirven los type hints. (aprobado 2026-11-09)
 
 ### Hito 2 — Ingeniería de software (45 h)
 
@@ -153,7 +153,7 @@ Se aprende midiendo el clasificador propio.
 | Hito | Horas | Estado |
 |---|---|---|
 | 0 Setup | 3 | Hecho |
-| 1 Python | 40 | En curso (falta checkpoint) |
+| 1 Python | 40 | Hecho |
 | 2 Ingeniería de software | 45 | Pendiente |
 | 3 LLM Engineering | 45 | Empezado (2 de 6) |
 | 4 Fundamentos de ML | 60 | Pendiente |
