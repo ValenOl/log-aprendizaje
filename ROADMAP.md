@@ -98,6 +98,7 @@ cae si la API falla.
 ### Hito 2 — Ingeniería de software (45 h)
 
 - [ ] Guardar clientes, deudas y respuestas en SQLite (reutilizar lo practicado en `Ideas`).
+- [ ] `asyncio` antes de FastAPI: qué hace `async def`/`await` y por qué esperar a Gemini no debe bloquear al servidor.
 - [ ] API con FastAPI: recibir el mensaje del cliente y devolver la clasificación.
 - [ ] Git con ramas y pull requests propios, aunque trabaje solo.
 - [ ] Docker: imagen del proyecto y contenedor corriendo.
@@ -113,6 +114,7 @@ cae si la API falla.
 - [ ] Eval más grande: 3 o 4 frases distintas por intención, incluidas las ambiguas.
 - [ ] Tool calling: que el modelo pueda consultar la deuda del cliente. Entender quién ejecuta la herramienta.
 - [ ] Guardrails: qué hacer si el cliente insulta, manda datos sensibles o intenta manipular al bot.
+- [ ] Similitud del coseno a mano con NumPy entre dos embeddings, antes de usar ChromaDB.
 - [ ] RAG en `reglamento-futbol`: embeddings, búsqueda y respuesta con fuentes.
 
 **Checkpoint:** quién ejecuta una tool call, qué es un embedding y por qué un eval que
@@ -135,7 +137,9 @@ Se aprende midiendo el clasificador propio.
 
 - [ ] Deploy en Cloud Run (ya hay proyecto en GCP).
 - [ ] Logs y métricas: costo por mensaje, latencia y errores.
+- [ ] Trazas con Langfuse: prompt, tokens, costo y latencia de cada llamada al modelo.
 - [ ] Reintentos y límites de uso.
+- [ ] Modelo de respaldo: si Gemini falla o tarda demasiado, pasar a otro modelo.
 - [ ] Integración con WhatsApp en modo de prueba.
 
 **Entregable:** URL pública que recibe un mensaje y responde.
