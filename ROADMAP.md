@@ -97,7 +97,7 @@ cae si la API falla.
 
 ### Hito 2 — Ingeniería de software (45 h)
 
-- [ ] Guardar clientes, deudas y respuestas en SQLite (reutilizar lo practicado en `Ideas`).
+- [x] Guardar clientes, deudas y respuestas en SQLite (reutilizar lo practicado en `Ideas`). (hecho 2026-11-12)
 - [ ] `asyncio` antes de FastAPI: qué hace `async def`/`await` y por qué esperar a Gemini no debe bloquear al servidor.
 - [ ] API con FastAPI: recibir el mensaje del cliente y devolver la clasificación.
 - [ ] Git con ramas y pull requests propios, aunque trabaje solo.
@@ -158,7 +158,7 @@ Se aprende midiendo el clasificador propio.
 |---|---|---|
 | 0 Setup | 3 | Hecho |
 | 1 Python | 40 | Hecho |
-| 2 Ingeniería de software | 45 | Pendiente |
+| 2 Ingeniería de software | 45 | Empezado (1 de 6) |
 | 3 LLM Engineering | 45 | Empezado (2 de 6) |
 | 4 Fundamentos de ML | 60 | Pendiente |
 | 5 Producción | 40 | Pendiente |
